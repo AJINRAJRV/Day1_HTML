@@ -1,0 +1,37 @@
+.NameHeading{
+    color :dodgerblue;
+}
+.role{
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:lighter;
+}
+
+.div1{
+    text-align: center;
+}
+a{
+    color: black;
+}
+
+
+
+.SubHeading{
+    color: deepskyblue;
+}
+
+.main{
+    border: 2px solid;
+    padding: 50px;
+    margin:2% 10%;
+    background-image: url(https://img.freepik.com/free-vector/simple-blue-gradient-background-vector-business_53876-140900.jpg?semt=ais_hybrid);
+    background-size: cover;
+}
+
+.divider {
+    border: none;
+    height: 2px;
+    background-color: #0056b3;
+    margin: 20px 0;
+    opacity: 0.8;
+}
